@@ -6,7 +6,7 @@
 
 import pandas as pd
 
-df = pd.read_csv('/Users/Komal/downloads/data-new2.csv')
+df = pd.read_csv('/data-new2.csv')
 
 
 # In[2]:
